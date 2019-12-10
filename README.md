@@ -1,0 +1,2 @@
+# chirik
+bitcoin miner
